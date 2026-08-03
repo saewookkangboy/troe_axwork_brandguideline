@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">AX WORKS color tokens</title>
+  <desc id="desc">Status color tokens: Paper, Ink, Signal, Gate, Verify, Halt. Color marks state, not decoration.</desc>
+
+  <rect width="1200" height="220" rx="2" fill="#FFFFFF"/>
+  <text x="48" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, monospace"
+        font-size="14" letter-spacing="0.16em" fill="#6B7580">COLOR · TOKEN SHEET</text>
+  <text x="48" y="78" font-family="-apple-system, BlinkMacSystemFont, Apple SD Gothic Neo, sans-serif"
+        font-size="22" font-weight="700" fill="#0C1116">색은 꾸밈이 아니라 상태</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">
+    <g transform="translate(48 108)">
+      <rect width="168" height="72" rx="2" fill="#F4F6F8" stroke="#D6DBE0"/>
+      <text x="16" y="28" fill="#0C1116">PAPER</text>
+      <text x="16" y="52" fill="#6B7580">#F4F6F8</text>
+    </g>
+    <g transform="translate(232 108)">
+      <rect width="168" height="72" rx="2" fill="#0C1116"/>
+      <text x="16" y="28" fill="#F4F6F8">INK</text>
+      <text x="16" y="52" fill="#8A93A0">#0C1116</text>
+    </g>
+    <g transform="translate(416 108)">
+      <rect width="168" height="72" rx="2" fill="#1C51B9"/>
+      <text x="16" y="28" fill="#FFFFFF">SIGNAL</text>
+      <text x="16" y="52" fill="#D6DBE0">#1C51B9</text>
+    </g>
+    <g transform="translate(600 108)">
+      <rect width="168" height="72" rx="2" fill="#C8912B"/>
+      <text x="16" y="28" fill="#0C1116">GATE</text>
+      <text x="16" y="52" fill="#1C232C">#C8912B</text>
+    </g>
+    <g transform="translate(784 108)">
+      <rect width="168" height="72" rx="2" fill="#0E7C66"/>
+      <text x="16" y="28" fill="#FFFFFF">VERIFY</text>
+      <text x="16" y="52" fill="#D6DBE0">#0E7C66</text>
+    </g>
+    <g transform="translate(968 108)">
+      <rect width="184" height="72" rx="2" fill="#B3261E"/>
+      <text x="16" y="28" fill="#FFFFFF">HALT</text>
+      <text x="16" y="52" fill="#D6DBE0">#B3261E</text>
+    </g>
+  </g>
+</svg>
