@@ -12,6 +12,40 @@
 
 ---
 
+## 2026-10-08 통합 업데이트
+
+이 저장소의 역할을 **AX WORKS 브랜드 가이드 보관소**에서 **TROE × AX WORKS 통합 운영의 기준 문서**까지 확장했습니다.
+
+| 구분 | 결정 |
+| --- | --- |
+| 마스터 브랜드 | **TROE** — 법인·대표·콘텐츠·사례·도서의 신뢰 허브 |
+| 서비스 브랜드 | **AX WORKS by TROE** — 진단·설계·실행·교육·운영 서비스 |
+| 대표 웹 허브 | `troe.kr` 전면 리뉴얼 |
+| 운영 진단 | [`ax.allrounder.im`](https://ax.allrounder.im/) 우선 유지 |
+| 배포 체계 | GitHub 원본 → Vercel Preview → Gate QA → Production |
+| 블로그 | 기존 URL을 유지·재작성·통합·종료로 전수 분류하고 301 관리 |
+
+전체 결정과 단계별 이관 계획은 [`docs/2026-10-08-troe-ax-works-integrated-operating-plan.md`](./docs/2026-10-08-troe-ax-works-integrated-operating-plan.md)에서 확인할 수 있습니다.
+
+> 현재 로컬에는 TROE 메인·AX WORKS 페이지·SEO 파일·파비콘 후보가 있지만 아직 운영 대표본이 아닙니다. 중복 HTML, 미작동 폼, 플레이스홀더 링크, 경력·도메인·문의 주소 충돌을 해결한 뒤 별도 구현 커밋으로 반영합니다.
+
+---
+
+## 저장소 지도
+
+| 경로 | 역할 | 상태 |
+| --- | --- | --- |
+| [`AX WORKS Brand Guideline.html`](./AX%20WORKS%20Brand%20Guideline.html) | 전체 가이드 열람용 HTML | 대표 열람본 |
+| [`raw/AXWORKS_01_brand-guideline.md`](./raw/AXWORKS_01_brand-guideline.md) | 브랜드 전략·비주얼 원문 | 기준 문서 |
+| [`raw/AXWORKS_02_site-plan.md`](./raw/AXWORKS_02_site-plan.md) | 사이트 IA·랜딩·진단·SEO 기획 | 구현 전 검토 |
+| [`raw/AXWORKS_03_launch-content.md`](./raw/AXWORKS_03_launch-content.md) | 런칭 콘텐츠·블로그·소셜 | 콘텐츠 원안 |
+| [`raw/AXWORKS_04_credentials-deck.md`](./raw/AXWORKS_04_credentials-deck.md) | Credentials 덱 | 제작 기획 |
+| [`raw/AXWORKS_05_promotion-plan.md`](./raw/AXWORKS_05_promotion-plan.md) | 프로모션·매체·측정 | 예산 승인 전 기획 |
+| [`raw/AXWORKS_06_multisite-integration.md`](./raw/AXWORKS_06_multisite-integration.md) | 기존 사이트 통합 전략 | v3 실행안으로 보완 |
+| [`docs/2026-10-08-troe-ax-works-integrated-operating-plan.md`](./docs/2026-10-08-troe-ax-works-integrated-operating-plan.md) | 최신 통합 운영·이관 기준 | **최신 실행 문서** |
+
+---
+
 ## 바로 열기
 
 브라우저에서 단일 HTML을 열면 전체 가이드라인을 바로 볼 수 있습니다.
@@ -84,8 +118,10 @@ open "AX WORKS Brand Guideline.html"
 
 - 작성일: 2026-08-01 · 가이드라인: 2026-08-02  
 - 근거 문서: TROE 신규 서비스 상품 PRD v1.1  
-- 이메일: [ax@allrounder.im](mailto:ax@allrounder.im)  
-- 사이트: [axworks.im](https://axworks.im)
+- TROE: [troe.kr](https://troe.kr/)
+- 운영 진단: [ax.allrounder.im](https://ax.allrounder.im/)
+- 문의 주소: `chunghyo@troe.kr`과 `ax@allrounder.im` 중 대표 주소 확정 필요
+- 목표 AX WORKS 도메인: `axworks.kr`·`axworks.im` 소유권과 DNS 확인 후 확정
 
 ---
 
