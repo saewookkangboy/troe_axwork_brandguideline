@@ -5,3 +5,6 @@
 .agents/
 skills-lock.json
 assets/readme/_preview*
+
+# 배포 사이트는 별도 레포(troe-site)
+site/
