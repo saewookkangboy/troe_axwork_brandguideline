@@ -119,9 +119,10 @@ open "AX WORKS Brand Guideline.html"
 - 작성일: 2026-08-01 · 가이드라인: 2026-08-02  
 - 근거 문서: TROE 신규 서비스 상품 PRD v1.1  
 - TROE: [troe.kr](https://troe.kr/)
+- AX WORKS: [troe.kr/ax](https://troe.kr/ax/) · 영문 [troe.kr/en/ax](https://troe.kr/en/ax/)
 - 운영 진단: [ax.allrounder.im](https://ax.allrounder.im/)
 - 문의 주소: `chunghyo@troe.kr`과 `ax@allrounder.im` 중 대표 주소 확정 필요
-- 목표 AX WORKS 도메인: `axworks.kr`·`axworks.im` 소유권과 DNS 확인 후 확정
+- `axworks.kr` 소유권·DNS는 확인 후 사용 여부 확정
 
 ---
 
